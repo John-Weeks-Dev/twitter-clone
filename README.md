@@ -1,6 +1,6 @@
 # Twitter Clone (twitter-clone)
 
-### Tutorial series on how to build this
+### Tutorial showing you how to build Twitter
 
 If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
