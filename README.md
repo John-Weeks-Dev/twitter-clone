@@ -25,7 +25,7 @@ composer dump-autoload
 
 php artisan key:generate
 
-composer require laravel/breeze vue --dev
+composer require laravel/breeze --dev
 
 php artisan breeze:install vue --ssr
 
